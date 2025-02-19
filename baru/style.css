@@ -1,0 +1,43 @@
+
+body {
+    background-color: #21a190;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: #03afce;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(170, 170, 170, 0.1);
+    text-align: center;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #131212;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #272626;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .btn {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }
